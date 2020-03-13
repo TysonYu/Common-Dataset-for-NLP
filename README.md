@@ -12,4 +12,4 @@
 ### Summarization
 + CNN/DailyMail https://github.com/abisee/cnn-dailymail
 + NYT https://catalog.ldc.upenn.edu/LDC2008T19
-+ XSum https://catalog.ldc.upenn.edu/LDC2008T19
++ XSum https://github.com/EdinburghNLP/XSum/tree/master/XSum-Dataset
